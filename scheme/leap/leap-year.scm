@@ -6,8 +6,6 @@
   (= (modulo number by) 0))
 
 (define (leap-year? year)
-  (if (and (divisible? year 4) (not (divisible? year 100)))
-      #t
-      (if (divisible? year 400)
-          #t
-          #f)))
+  (cond ((and (divisible? year 4) (not (divisible? year 100))) #t)
+        ((divisible? year 400) #t)
+        (else #f)))
