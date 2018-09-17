@@ -13,7 +13,7 @@ Tracks List
 - [x] - Raindrops: [link](https://exercism.io/my/solutions/a8671958741545f691377c0fa8d91032)
 - [x] - RNA: [link](https://exercism.io/my/solutions/7e214141d3e146edb85c843dee785444)
 - [x] - Robot Name: [link](https://exercism.io/my/solutions/d183aa4174df497c9e34c45c4755c2e6)
-- [ ] - Phone Number
+- [x] - Phone Number: [link](https://exercism.io/my/solutions/a0d036e5700e4f03b90f6a4c88ec2ae8)
 - [ ] - Anagram
 - [ ] - Nucleotide Count
 - [x] - Difference of Squares: [link](https://exercism.io/my/solutions/03537bed85a94321aa1d740b552dd4d1)
