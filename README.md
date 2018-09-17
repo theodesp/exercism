@@ -12,7 +12,7 @@ Tracks List
 - [x] - Bob: [link](https://exercism.io/my/solutions/62ac4b28b10343858113e8b6cbdab5e0)
 - [x] - Raindrops: [link](https://exercism.io/my/solutions/a8671958741545f691377c0fa8d91032)
 - [x] - RNA: [link](https://exercism.io/my/solutions/7e214141d3e146edb85c843dee785444)
-- [ ] - Robot Name
+- [x] - Robot Name: [link](https://exercism.io/my/solutions/d183aa4174df497c9e34c45c4755c2e6)
 - [ ] - Phone Number
 - [ ] - Anagram
 - [ ] - Nucleotide Count
