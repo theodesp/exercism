@@ -21,4 +21,4 @@ Tracks List
 - [x] - Scrable score: [link](https://exercism.io/my/solutions/81907e6f341443f499e036dd57317c6e)
 - [x] - Two Fer: [link](https://exercism.io/my/solutions/a966c32cea2d46deacd66f4ca400618d)
 - [ ] - Atbash Cipher
-- [ ] - Word Count
+- [x] - Word Count: [link](https://exercism.io/my/solutions/fd8c57e4bd98455fb96969b384dd05bf)
