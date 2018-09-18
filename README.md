@@ -15,7 +15,7 @@ Tracks List
 - [x] - Robot Name: [link](https://exercism.io/my/solutions/d183aa4174df497c9e34c45c4755c2e6)
 - [x] - Phone Number: [link](https://exercism.io/my/solutions/a0d036e5700e4f03b90f6a4c88ec2ae8)
 - [ ] - Anagram
-- [ ] - Nucleotide Count
+- [x] - Nucleotide Count: [link](https://exercism.io/my/solutions/8b9e555479b147a89e22627a0adb088c)
 - [x] - Difference of Squares: [link](https://exercism.io/my/solutions/03537bed85a94321aa1d740b552dd4d1)
 - [x] - List ops: [link](https://exercism.io/my/solutions/a3297aec1d7f4d6a97222c4ad5279e92)
 - [x] - Scrable score: [link](https://exercism.io/my/solutions/81907e6f341443f499e036dd57317c6e)
