@@ -24,3 +24,6 @@ Tracks List
 - [x] - Word Count: [link](https://exercism.io/my/solutions/fd8c57e4bd98455fb96969b384dd05bf)
 
 ### ReasonML
+
+- [x] - Hello World: [link](https://exercism.io/my/solutions/63e4ac5770674aed91dc0416f45b99e9)
+- [x] - Two Fer: [link](https://exercism.io/my/solutions/e8f87b353a864283835a80264e0ec82f)

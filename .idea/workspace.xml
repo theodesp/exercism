@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c88e34c-583a-4299-a589-57a50c48b4f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/.solution.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/__tests__/TwoFer_test.re" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/bsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/src/TwoFer.re" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/two-fer/src/TwoFer.rei" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585069635442</updated>
-      <workItem from="1585069639655" duration="265000" />
+      <workItem from="1585069639655" duration="872000" />
     </task>
     <servers />
   </component>
