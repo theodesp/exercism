@@ -1,0 +1,13 @@
+(define-module (anagram)
+  #:export (anagrams-for))
+
+
+(define (remove-invalid word anagrams)
+  (let ((not-same (filter
+                         (lambda (x) (not (string=? x word))) anagrams)))
+    (filter
+     (lambda (x) (or (= (string-length x) (string-length word)))) not-same)))
+
+(define (anagrams-for word anagrams)
+  (let ((whats-left (remove-invalid word anagrams)))
+    whats-left))
