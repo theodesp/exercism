@@ -27,3 +27,4 @@ Tracks List
 
 - [x] - Hello World: [link](https://exercism.io/my/solutions/63e4ac5770674aed91dc0416f45b99e9)
 - [x] - Two Fer: [link](https://exercism.io/my/solutions/e8f87b353a864283835a80264e0ec82f)
+- [x] - Resistor Color: [link](https://exercism.io/my/solutions/51b6db2defd145b0a5cc5f4119e4ddf8)
