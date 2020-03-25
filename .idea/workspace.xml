@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c88e34c-583a-4299-a589-57a50c48b4f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reasonml/leap/src/Leap.re" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reasonml/space-age/src/SpaceAge.re" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -25,10 +24,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/reasonml/leap/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reasonml/space-age/src" />
       <recent name="$PROJECT_DIR$/reasonml/leap/src" />
     </key>
   </component>
@@ -52,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585069635442</updated>
       <workItem from="1585069639655" duration="1936000" />
-      <workItem from="1585143188795" duration="878000" />
+      <workItem from="1585143188795" duration="1941000" />
+      <workItem from="1585148644618" duration="242000" />
     </task>
     <servers />
   </component>
