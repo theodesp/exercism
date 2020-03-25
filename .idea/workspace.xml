@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c88e34c-583a-4299-a589-57a50c48b4f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reasonml/bob/src/Bob.re" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <updated>1585069635442</updated>
       <workItem from="1585069639655" duration="1936000" />
       <workItem from="1585143188795" duration="1941000" />
-      <workItem from="1585148644618" duration="2693000" />
+      <workItem from="1585148644618" duration="2863000" />
     </task>
     <servers />
   </component>

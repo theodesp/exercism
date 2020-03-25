@@ -30,3 +30,4 @@ Tracks List
 - [x] - Resistor Color: [link](https://exercism.io/my/solutions/51b6db2defd145b0a5cc5f4119e4ddf8)
 - [x] - Leap year: [link](https://exercism.io/tracks/reasonml/exercises/leap/solutions/ff75f50ac5c8401588d8b237d312742c)
 - [x] - Space Age: [link](https://exercism.io/my/solutions/7964ecf9b1464ad589ce793a24906952)
+- [x] - Bob: [link](https://exercism.io/my/solutions/815c7ce4a39c4f9895cbdbd4c0fac08e)
