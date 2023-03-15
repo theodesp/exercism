@@ -38,4 +38,6 @@ Tracks List
 
 - [x] - Hello World
 - [x] - Leap Year
-- [ ] - Binary Search
+- [x] - Binary Search
+- [x] - Difference of Squares
+- [x] - Collatz Conjecture
