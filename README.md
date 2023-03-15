@@ -32,3 +32,10 @@ Tracks List
 - [x] - Space Age: [link](https://exercism.io/my/solutions/7964ecf9b1464ad589ce793a24906952)
 - [x] - Bob: [link](https://exercism.io/my/solutions/815c7ce4a39c4f9895cbdbd4c0fac08e)
 - [x] - RNA Transcription: [link](https://exercism.io/my/solutions/bb55b34a391043cfbffb6490d171b2de)
+
+
+### Zig
+
+- [x] - Hello World
+- [x] - Leap Year
+- [ ] - Binary Search
