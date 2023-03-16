@@ -47,3 +47,6 @@ Tracks List
 - [x] - hamming
 - [x] - grains
 - [x] - resistor color
+- [x] - resistor color duo
+- [x] - triangle
+- [x] - darts
