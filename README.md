@@ -44,3 +44,6 @@ Tracks List
 - [x] - pangram
 - [x] - armstrong numbers
 - [x] - isogram
+- [x] - hamming
+- [x] - grains
+- [x] - resistor color
