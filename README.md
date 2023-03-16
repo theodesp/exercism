@@ -41,3 +41,6 @@ Tracks List
 - [x] - Binary Search
 - [x] - Difference of Squares
 - [x] - Collatz Conjecture
+- [x] - pangram
+- [x] - armstrong numbers
+- [x] - isogram
